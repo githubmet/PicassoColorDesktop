@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="activity_names">
+        <item>P001PicassoWith</item>
+        <item>P002PicassoBuilder</item>
+        <item>P003TransformationClass</item>
+        <item>P004ListViewPicss</item>
+        <item>P005ListViewDiff</item>
+    </string-array>
+
+    <string-array name="flower_names">
+        <item>agapanthus.jpg</item>
+        <item>aloe_vera.jpg</item>
+        <item>armeria_allicaea.jpg</item>
+        <item>bonsai.jpg</item>
+        <item>bougainvillea.jpg</item>
+        <item>bronze_mums.jpg</item>
+        <item>calibrachoa.jpg</item>
+        <item>california_snow.jpg</item>
+        <item>camellia.jpg</item>
+        <item>cymbidium.jpg</item>
+        <item>dianthus.jpg</item>
+        <item>dusty_miller.jpg</item>
+        <item>exotic_dancer.jpg</item>
+        <item>flowering_kale.jpg</item>
+        <item>haight_ashbury.jpg</item>
+        <item>iris_siberica.jpg</item>
+        <item>lithops.jpg</item>
+        <item>mexican_fencepost_cactus.jpg</item>
+        <item>mexican_golden_barrel_cactus.jpg</item>
+        <item>mona_lavender.jpg</item>
+        <item>opuntia_cactus.jpg</item>
+        <item>pansy_blue_shades.jpg</item>
+        <item>pelargonium.jpg</item>
+        <item>penny_orange_jumpup.jpg</item>
+        <item>phalaenopsis.jpg</item>
+        <item>pincushion.jpg</item>
+        <item>princess_flower.jpg</item>
+        <item>red_cactus.jpg</item>
+        <item>rosa_burgundy.jpg</item>
+        <item>rosa_iceberg.jpg</item>
+        <item>salvia.jpg</item>
+        <item>string_of_pearls.jpg</item>
+        <item>white_wedding.jpg</item>
+        <item>yellow_pansy.jpg</item>
+    </string-array>
+
+</resources>
