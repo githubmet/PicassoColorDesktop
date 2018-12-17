@@ -7,6 +7,10 @@
         <item>P003TransformationClass</item>
         <item>P004ListViewPicss</item>
         <item>P005ListViewDiff</item>
+        <item>P006ViewPager</item>
+
+
+
     </string-array>
 
     <string-array name="flower_names">
