@@ -26,6 +26,7 @@
 
 
         <activity android:name=".P007Ghost"></activity>
+        <activity android:name=".P008AddCanvas"></activity>
     </application>
 
 </manifest>
