@@ -23,6 +23,9 @@
         <activity android:name=".P004ListViewPicss"></activity>
         <activity android:name=".P005ListViewDiff"></activity>
         <activity android:name=".P006ViewPager"></activity>
+
+
+        <activity android:name=".P007Ghost"></activity>
     </application>
 
 </manifest>

@@ -3,4 +3,8 @@
 
     <string name="text">Text</string>
     <string name="network_error">Network Error</string>
+
+    <string name="make_alpha_ghost">Make Alpha Ghost</string>
+    <string name="make_ghost">Make Ghost</string>
+    <string name="ok">Ok</string>
 </resources>
